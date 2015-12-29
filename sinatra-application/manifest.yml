@@ -1,5 +1,5 @@
 ---
 applications:
-- name: ruby-test-application-sinatra
+- name: sinatra-application
   memory: 128M
   instances: 1
